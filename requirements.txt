@@ -22,7 +22,7 @@ pre-commit==2.4.0
 py==1.8.1
 PyJWT==1.7.1
 pyparsing==2.4.7
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pytz==2020.1
 PyYAML==5.3.1
 requests==2.23.0
